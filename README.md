@@ -17,7 +17,7 @@
 **Languages:** Java, JavaScript, SQL  
 **Frameworks:** Spring Boot, React, Angular  
 **Databases:** MySQL, SQL, MongoDB  
-**Cloud & Tools:** AWS, Git, Docker, Postman, Maven  
+**Cloud & Tools:** AWS, Git, Docker, Postman, Maven, Eclipse  
 **Other:** REST APIs, Tailwind CSS, HTML, CSS  
 
 ---
@@ -27,9 +27,9 @@
 | -------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
 | 🏦 **Ocwen Loan Application**          | Enterprise-grade web app for loan and mortgage management built at Cognizant.                                  | Java, Spring Boot, MySQL, Angular          |
 | 💬 **Tweet App**                       | A micro social app for short posts and user management, built during internship.                               | Spring Boot, Angular, MySQL                |
-| 🌍 **TravelBuddy App** *(in progress)* | A full-stack travel planner that helps users discover destinations, manage itineraries, and share experiences. | React, Node.js, Express, MongoDB, Tailwind |
-| 📊 **Expense Tracker** *(in progress)* | Track daily expenses with category filters and visual insights.                                                | React, Node.js, MongoDB                    |
-| 🌦️ **Weather Dashboard**              | Real-time weather app using external APIs with React.                                                          | React, OpenWeather API                     |
+| 🌍 **TravelBuddy App** *(in progress)* | A full-stack travel planner that helps users discover destinations, manage itineraries, and share experiences. | React.js, Java, Spring Boot, MySQL |
+| 📊 **Expense Tracker** *(in progress)* | Track daily expenses with category filters and visual insights.                                                | React.js, Java, MongoDB                    |
+| 🌦️ **Weather Dashboard**              | Real-time weather app using external APIs with React.                                                          | React.js, OpenWeather API                     |
 
 
 ---
