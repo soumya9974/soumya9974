@@ -16,7 +16,7 @@
 ### ⚙️ Tech Stack
 **Languages:** Java, JavaScript, SQL  
 **Frameworks:** Spring Boot, React, Angular  
-**Databases:** MySQL, SQL, MongoDB  
+**Databases:** SQL, MongoDB  
 **Cloud & Tools:** AWS, Git, Docker, Postman, Maven, Eclipse  
 **Other:** REST APIs, Tailwind CSS, HTML, CSS  
 
