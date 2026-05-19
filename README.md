@@ -17,7 +17,7 @@ I build scalable web apps across the full stack — from Spring Boot microservic
 
 - 🎓 Pursuing an **MS in Computer Science**, focused on backend systems and modern web development
 - 💼 Previously a **Full Stack Developer at Cognizant** — built enterprise-grade apps with Java, Spring Boot & Angular
-- 🚀 Currently deepening expertise in **React**, **Node.js**, **WebSockets**, **Docker**, and **cloud-native architecture**
+- 🚀 Currently learning **React** and **Angular**, and deepening expertise in **WebSockets**, **Docker**, and **cloud-native architecture**
 - 🌱 Always learning — obsessed with clean architecture, meaningful products, and constant growth
 
 ---
@@ -31,16 +31,16 @@ I build scalable web apps across the full stack — from Spring Boot microservic
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+**Currently Learning**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 **Databases & Cloud**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -73,7 +73,7 @@ A full-stack group travel app where users can create travel groups, communicate 
 
 Users can log expenses, create custom categories with colors, set monthly budgets, and visualize spending patterns through pie charts and bar graphs. Features secure auth via Supabase, Row Level Security for data isolation, and a responsive design that works across devices.
 
-**Stack:** `React` `Node.js` `Express` `Supabase (PostgreSQL)` `Recharts` `Vite`
+**Stack:** `React` `Supabase (PostgreSQL)` `Recharts` `Vite`
 
 ---
 
