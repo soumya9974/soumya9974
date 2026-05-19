@@ -2,7 +2,7 @@
 
 # Hey, I'm Soumya 👋
 
-**Junior Java Full Stack Developer** · M.Sc. Computer Science (IU Berlin, 2026) · Ex-Cognizant  
+**Java Full Stack Developer** · M.Sc. Computer Science (IU Berlin, 2026) · Ex-Cognizant  
 I specialise in backend systems with Java & Spring Boot, and I'm actively growing on the frontend with React and Angular.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-kappera-019a7a1b8)
