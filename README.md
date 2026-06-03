@@ -7,6 +7,7 @@ I specialise in backend systems with Java & Spring Boot, and I'm actively growin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-kappera-019a7a1b8)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumyakappera@gmail.com)
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 📍 Berlin, Germany &nbsp;|&nbsp; 🇬🇧 English (C1/C2) &nbsp;·&nbsp; 🇩🇪 German (B1→B2) &nbsp;·&nbsp; 🇮🇳 Hindi / Telugu
 
@@ -95,5 +96,8 @@ Open to **Junior Java / Full Stack Developer roles** in Berlin or remote. Happy 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/soumya-kappera-019a7a1b8)
 - 📧 [soumyakappera@gmail.com](mailto:soumyakappera@gmail.com)
+- 🌐 Portfolio (https://soumya9974.github.io/Portfolio/)
+
+
 
 > *"Keep building. Keep learning. Keep growing."*
